@@ -7,7 +7,7 @@ In this repository the Befunge file is my python befunge interpreter and my code
 %	   Modulo: Pop two values a and b, then push the remainder of the integer division of b/a.
 !	   Logical NOT: Pop a value. If the value is zero, push 1; otherwise, push zero.
 `	   Greater than: Pop two values a and b, then push 1 if b>a, otherwise zero.
->	   PC direction right
+'>'   PC direction right
 <	   PC direction left
 ^	   PC direction up
 v	   PC direction down
