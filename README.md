@@ -1,8 +1,8 @@
 # Befunge
 In this repository the Befunge file is my python befunge interpreter and my code. Befunge is a 2-dimetional esotric programing langguage. The rules my language follow are below. 
-+	   Addition: Pop two values a and b, then push the result of a+b
--	   Subtraction: Pop two values a and b, then push the result of b-a
-*	   Multiplication: Pop two values a and b, then push the result of a*b
+'+	'   Addition: Pop two values a and b, then push the result of a+b
+'-'	   Subtraction: Pop two values a and b, then push the result of b-a
+'*'	   Multiplication: Pop two values a and b, then push the result of a*b
 /	   Integer division: Pop two values a and b, then push the result of b/a, rounded down. According to the specifications, if a is zero, ask the user what result            they want.
 %	   Modulo: Pop two values a and b, then push the remainder of the integer division of b/a.
 !	   Logical NOT: Pop a value. If the value is zero, push 1; otherwise, push zero.
