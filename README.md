@@ -1,6 +1,5 @@
 # Befunge
 In this repository the Befunge file is my python befunge interpreter and my code. Befunge is a 2-dimetional esotric programing langguage. The rules my language follow are below. 
-Cmd	   Description
 +	     Addition: Pop two values a and b, then push the result of a+b
 -	     Subtraction: Pop two values a and b, then push the result of b-a
 *	     Multiplication: Pop two values a and b, then push the result of a*b
